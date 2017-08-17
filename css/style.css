@@ -112,6 +112,10 @@ body {
 	background-color: #e4e6e5;
 }
 
+.papers {
+	text-align: left;
+}
+
 .special-active-menu {
 	z-index: 10;
 }
