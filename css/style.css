@@ -409,7 +409,7 @@ body {
 
 
 #slide-6 {
-	background-color: #2f2f2f;
+	background-color: #8C9300;
 	color: #e4e6e5;
 	padding-bottom: 50px;
 	padding-top: 90px;
@@ -422,8 +422,8 @@ body {
 }
 	
 	#slide-6 .line-row .hr {
-		background-color: #4e4e4e;
-		color: #4e4e4e;
+		background-color: #e4e6e5;
+		color: #e4e6e5;
 	}
 
 	#slide-6 a {
@@ -444,7 +444,7 @@ body {
 	}
 	
 	#contact-row-4 .col-12 {
-		height: 175px;
+		height: 130px;
 		overflow: hidden;
 		padding-top: 20px;
 		transition: all ease-in .5s;
@@ -473,7 +473,7 @@ footer{
 	text-align: center;
 	padding-top: 15px;
 	padding-bottom: 15px;
-	background-color: #524B4B;
+	background-color: #2f2f2f;
 }
 
 #lightbox-out {
@@ -564,5 +564,3 @@ footer{
 .navigation-slide {
 	cursor: pointer;
 }
-
-/* more read*/
