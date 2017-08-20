@@ -1,3 +1,8 @@
+/* more read */
+function read (){
+	let text = '<div class="2016"><h2>2016</h2><br><ul><li><span class="font-author">尾崎周也</span>, <span class="font-author">中島博敬</span>. "MTA-STS : SMTP MTA Strict Transport Security を用い暗号化された電子メール通信経路の確立とその実装" 情報処理学会マルチメディア・分散・協調とモバイル (DICOMO 2017) シンポジウム論文集. July 2017 (2017): xxxx-xxxx.</li><br><li>Hongjia Chen, Yasuyuki Maeda, Akira Imakura, Tetsuya Sakurai and Francoise Tissur, Improving the numerical stability of the Sakurai-Sugiura method for quadratic eigenvalue problems, JSIAM Letters Vol. 9, pp. 17-20 (2017).</li><br><li>Kyohei MATSUMOTO, Takafumi NAKANISHI and Takashi KITAGAWA, Evaluation Indexes of Customer Journey for Contents of Owned Media, Information Modelling and Knowledge Bases XXVIII, IOS Press, Vol.292 of Frontiers in Artificial Intelligence and Applications, pp. 362-369, (2017)</li></ul><br></div>';
+	document.getElementById("more").innerHTML = text;
+};
 
 $(document).ready(function(e) {
 	$('.with-hover-text, .regular-link').click(function(e){
