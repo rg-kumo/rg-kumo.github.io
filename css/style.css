@@ -238,7 +238,7 @@ body {
 }
 
 #slide-1 {
-	background-image: url('../images/main-sfc.jpg');
+	background-image: url('../images/delta2.png');
 	color: #ffffff;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -255,7 +255,7 @@ body {
 }
 
 #slide-1 h1 {
-	padding-top: 130px;
+	padding-top: 80px;
 }
 
 @media (max-width: 991px) {
