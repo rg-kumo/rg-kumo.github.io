@@ -8,29 +8,29 @@
  */
  
 .font-thin {
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Titillium Web", "Noto Sans Japanese", sans-serif;
 	font-weight: 200;
 }
 
 .font-semibold {
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Titillium Web", "Noto Sans Japanese", sans-serif;
 	font-weight: 600;
 }
 
 
 .font-light {
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Titillium Web", "Noto Sans Japanese", sans-serif;
 	font-weight: 300;
 }
 
 .font-paper {
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Titillium Web", "Noto Sans Japanese", sans-serif;
 	font-weight: 400;
 	color: white;
 }
 
 .font-author {
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Titillium Web", "Noto Sans Japanese", sans-serif;
 	text-decoration: underline;
 }
 
@@ -52,7 +52,7 @@ html, body {
 
 body {
 	background-color: #2f2f2f;
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Titillium Web", "Noto Sans Japanese", sans-serif;
 	font-weight: normal;
 	overflow-x: hidden;
 	-webkit-font-smoothing: antialiased !important;
@@ -77,7 +77,7 @@ body {
 
 .navbar .nav a {
 	color: #5f5f5f;
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Titillium Web", "Noto Sans Japanese",　sans-serif;
 	font-weight: 600;
 	transition: all .5 linear;
 }
@@ -370,7 +370,7 @@ body {
 	}
 	
 	.content-row h4 {
-		font-family: "Titillium Web", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+		font-family: "Titillium Web", "Noto Sans Japanese", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 		font-size: 20px;
 		font-weight: 300;
 	}
