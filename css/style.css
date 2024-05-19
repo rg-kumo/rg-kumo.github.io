@@ -244,7 +244,6 @@ body {
     -moz-background-size: 100%;
     -o-background-size: 100%;
     background-size: 100%;
-
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -252,6 +251,7 @@ body {
     width: 100%;
 	background-attachment: relative;
 	background-position: center center;
+	padding-bottom: 110px;
 }
 
 #slide-1 h1 {
@@ -329,7 +329,7 @@ body {
 }
 
 #slide-2 {
-	background-color: #1abc9c;
+	background-color: #66B98F;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
@@ -382,7 +382,7 @@ body {
 	
 
 #slide-4 {
-	background-color: #34495e;
+	background-color: #07889B;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
@@ -407,7 +407,7 @@ body {
 
 
 #slide-5 {
-	background-color: #B27C18;
+	background-color: #D9B310;
 	color: white;
 	padding-top: 90px;
 }
@@ -476,9 +476,9 @@ footer{
 	width: 100%;
 	color: white;
 	text-align: center;
-	padding-top: 15px;
-	padding-bottom: 15px;
-	background-color: #84754E;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	background-color: #a59467;
 }
 
 #lightbox-out {
